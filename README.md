@@ -1,2 +1,2 @@
 # RxScan
-Medicine Regognition
+Medicine Recognition
